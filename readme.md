@@ -6,3 +6,5 @@
      introduction to git and github
      * _week_2:
          create markdown file
+  * _week_3 
+       introduction to python number and strings
